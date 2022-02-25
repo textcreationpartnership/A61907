@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain papers given forth from the spirit of truth which witnesses against the wisdom of the world and unrighteousness of men, both priests and people, and against their false wayes and false worship and which witnesses of the light of Jesus Christ in the conscience wherein true wisdom is, that people may see with the true light into the things that be invisible and be converted and healed of God in Christ Thomas Stubbs.</title>
+            <author>Stubbs, Thomas, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61907</idno>
+            <idno type="STC">Wing S6086</idno>
+            <idno type="STC">ESTC R15298</idno>
+            <idno type="EEBO-CITATION">13593569</idno>
+            <idno type="OCLC">ocm 13593569</idno>
+            <idno type="VID">100698</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100698)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 802:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain papers given forth from the spirit of truth which witnesses against the wisdom of the world and unrighteousness of men, both priests and people, and against their false wayes and false worship and which witnesses of the light of Jesus Christ in the conscience wherein true wisdom is, that people may see with the true light into the things that be invisible and be converted and healed of God in Christ Thomas Stubbs.</title>
+                  <author>Stubbs, Thomas, d. 1673.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100698:1" rendition="simple:additions"/>
+            <p>CERTAIN PAPERS Given forth from the SPIRIT OF TRUTH Which witneſſes againſt the wiſdom of the world, and unrighteouſneſs of men, both Prieſts and People, and againſt their falſe wayes and falſe worſhip, and which witneſſes of the Light of Jeſus Chriſt in the conſcience, wherein true wiſdom is, that people may ſee with the true Light into the things that be inviſible and be converted and healed of God in Chriſt.</p>
+            <p>By <hi>Thomas Stubbs.</hi>
+            </p>
+            <q>
+               <p>I thank thee O Father, Lord of heaven and earth, that thou haſt hid theſe things from the wiſe and prudent, and hast revealed them unto Babes, even ſo Father for it pleaſed thee,
+<bibl>
+                     <hi>Mat. 11.25.26. Luke 10.21.</hi>
+                  </bibl>
+               </p>
+               <p>Every man is brutiſh in his knowledge, <hi>&amp;c.</hi>
+                  <bibl>
+                     <hi>Jer. 20.14.15.</hi>
+                  </bibl> The Portion of <hi>Jacob</hi> is not like them, <hi>&amp;c.</hi>
+                  <bibl>
+                     <hi>Jer. 10.</hi>
+                  </bibl> I would ſeek un<g ref="char:EOLhyphen"/>to God, and unto God would I commit my cauſe, he taketh the wiſe in their own craftineſs,
+<bibl>
+                     <hi>Job 5.13.</hi>
+                  </bibl>
+               </p>
+               <p>Aſſociate your ſelves, O ye people, and ye ſhall be broken in pieces, gird your ſelves and ye ſhall be broken in pieces, gird your ſelves and ye ſhall be broken in pieces, take counſel together and it ſhall come to nought, ſpeak the word and it ſhall not stand, for God is with us,
+<bibl>
+                     <hi>Iſai. 8.9, 10.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Aldeſgate.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:100698:2"/>
+            <head>A Declaration of Life and Power in me.</head>
+            <lg>
+               <l>O LORD thou art my God.</l>
+               <l>Thou art a Father to the father<g ref="char:EOLhyphen"/>leſs.</l>
+               <l>Thou art my ſhield and ſtrong tower of defence.</l>
+               <l>Nothing is to be compared to thee.</l>
+               <l>My love, my Dove, my undefiled one.</l>
+               <l>Thou art the chiefeſt among ten thou<g ref="char:EOLhyphen"/>ſands.</l>
+               <l>With thee is reſt and peace.</l>
+               <l>With thee, is love and joy.</l>
+               <l>Keep me under the ſhadow of thy wings.</l>
+               <l>Stay me with the flagons of thy love.</l>
+               <l>Stay me in thy houſe.</l>
+               <l>Let me not go from thy preſence.</l>
+               <l>Thou art my ſtrong tower of defence.</l>
+               <l>Thy love is better then wine.</l>
+               <l>Thou art ſweet and comely,</l>
+               <l>Nothing is to be deſired beſides thee.</l>
+               <l>Thou art meek and lowly.</l>
+               <l>Becauſe of thy precious ointment,</l>
+               <l>Therefore do the virgins love thee.</l>
+               <l>All things are nothing beſides thee.</l>
+               <l>What am I without thee?</l>
+               <l>I have all things with thee.</l>
+               <l>Never ſuffer me to flee from thee.</l>
+               <l>With the ſweetneſs of thy love ſtay me.</l>
+               <l>Thou art ſweet and lovely.</l>
+               <l>With thee is lowlineſs and purity.</l>
+               <l>With thee is meekneſs and chaſtity.</l>
+               <l>With thee is true humility.</l>
+               <l>Thou ſtilleſt the raging of the Sea.</l>
+               <l>All enemies in me do ſubmit to thee.</l>
+               <l>There is no power beſides thee.</l>
+               <l>And all things ſhall obey thee.</l>
+               <l>With thee is life eternal.</l>
+               <l>For thy fleſh is meat, and thy blood is drink,</l>
+               <l>to all whoſe mindes are ſtayed on thee.</l>
+               <l>With thee is ſweet ſimplicity.</l>
+               <l>Oh do not thou forfake me.</l>
+               <l>Draw me, and I will run after thee.</l>
+               <l>With thy preſence guard me.</l>
+               <l>So ſhall be kept out the enemy.</l>
+               <l>They are ſatisfied who wait on thee,</l>
+               <l>Nothing is too hard for thee.</l>
+               <l>All nations ſhall obey thee,</l>
+               <l>and caſt down their crowns before thee;</l>
+               <l>for thou art worthy.</l>
+               <l>For thy name is a ſtrong tower</l>
+               <l>to all that give up to thee.</l>
+               <l>to whom be all honour and glory.</l>
+               <l>Come down ye high and lofty ones.</l>
+               <l>and ſubmit to Jeſus Chriſt.</l>
+               <l>and to that pure ſimplicitie.</l>
+               <l>which lets you ſee the evil of your hearts;</l>
+               <l>and ſo will be cut down the corrupt tree;</l>
+               <l>But if ye follow the imaginations of your own hearts,</l>
+               <l>and reject the chief corner ſtone.</l>
+               <l>his indignation will be poured on thee.</l>
+               <l>and thou ſhalt run to the ragged rocks,</l>
+               <l>and cry to the mountains to fall on thee.</l>
+               <l>To hide thee from the preſence of the Lord;</l>
+               <l>But thou ſhalt finde no place to fly unto,</l>
+               <l>but his judgements will follow thee.</l>
+               <l>But bleſſed are all they that wait on him.</l>
+               <l>They ſhall flouriſh like the green olive tree</l>
+               <l>which is planted by the rivers of water</l>
+               <l>which is ſweet and comely.</l>
+               <l>Sweeter then the honey, and the hony comb.</l>
+               <l>Nothing can expreſs thee.</l>
+               <l>No tongue can declare thee.</l>
+               <l>Thy love is appeared to mee,</l>
+               <l>and ſhall to all that wait on thee;</l>
+               <l>for thou art juſt and holy.</l>
+               <l>No unclean thing ſhall come to thee;</l>
+               <l>For thou art all purity.</l>
+               <l>The wells-ſprings of life are with thee:</l>
+               <l>Never ſuffer me to run from thee,</l>
+               <l>Keep me as the apple of thine eye,</l>
+               <pb n="3" facs="tcp:100698:2"/>
+               <l>No tongue can declare thee,</l>
+               <l>The ſweetneſs that flowes from thee</l>
+               <l>Thee carnal heart knowes it not.</l>
+               <l>but that heart which is given to thee,</l>
+               <l>Thy free love is tendered to all.</l>
+               <l>none drinkes of it but who are obedient to thee.</l>
+               <l>Wo is to him that forſakes thee.</l>
+               <l>Nothing is to be compared to thee.</l>
+               <l>Oh unite me unto thee.</l>
+               <l>Never ſuffer me to diſtruſt thee.</l>
+               <l>Thou haſt brought me into thy banquet<g ref="char:EOLhyphen"/>ing houſe.</l>
+               <l>Oh ſtay thou with me.</l>
+               <l>Bleſſed are all they that truſt in thee.</l>
+               <l>All things below thee are vanity.</l>
+               <l>My ſoul doth witneſs it forth,</l>
+               <l>becauſe it drinketh of thee.</l>
+               <l>Oh let none be diſcouraged</l>
+               <l>whoſe faces are ſet towards thee.</l>
+               <l>Believe not the enemy.</l>
+               <l>Give up, give up to be guided by the coun<g ref="char:EOLhyphen"/>ſel of Jeſus Chriſt in you;</l>
+               <l>For he is worthy.</l>
+               <l>Why will you ſpend your time in vanity?</l>
+               <l>and forſake the living mercies,</l>
+               <l>which are tendered freely.</l>
+               <l>Return, return from every evil way.</l>
+               <l>That ye may become branches of the li<g ref="char:EOLhyphen"/>ving tree.</l>
+               <l>Come forth, come forth of Babylon,</l>
+               <l>and ſubmit to that pure light in you</l>
+               <l>which cries for holineſs, and purity.</l>
+               <l>Take heed of feeding upon vanity.</l>
+               <l>Oh never ſuffer me to forſake thee,</l>
+               <l>nor none whoſe ſouls thirſt after thee.</l>
+               <l>Nothing is to be compared to thee.</l>
+               <l>Yea thou art ſweeter then the hony-comb.</l>
+               <l>No tongue can expreſs thee,</l>
+               <l>the ſweetneſs of the love that is in thee.</l>
+               <l>Oh ſweet ſimplicity.</l>
+               <l>Bleſſed are all they that wait on thee,</l>
+               <l>and comes again to their firſt innocency,</l>
+               <l>being regenerate and born again,</l>
+               <l>who comes to feed upon the living-tree,</l>
+               <l>and drinks of the pure ſtreames that run from thee,</l>
+               <l>which heals all that comes to thee;</l>
+               <l>for thou art life and purity.</l>
+            </lg>
+            <closer>
+               <signed>Moved and written from the Spirit of the Lord by <hi>Thomas Stubbs</hi> called a <hi>Quaker.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>The Word of the Lord againſt them who do err, not knowing the Scriptures.</head>
+            <p>THE Prieſts and people of the world wreſt the Scriptures to their own deſtruction, becauſe they do deny the light within, wherewith Jeſus Chriſt <hi>hath enlightened every one that cometh into the world,</hi> which is the way that would lead up to the life which the Scriptures teſtifie of; who abides in the light, and follow it, they have the light of life abiding in them; and who do deny the light within, are the enemies of Jeſus Chriſt and are out of the Scriptures. Now the Scriptures teſtifie of him that he is the light that lighteth every one that cometh into the world, and that he is the way, the Truth, and the Life; who followes him not, rejecting the light within, hath not life, and is out of the Scriptures, and the wrath of God abideth on him, for the light reproves him; and there is the con<g ref="char:EOLhyphen"/>demnation, that light is come into the world, and men love darkneſs rather then light becauſe their deeds are evill. And they in whom the Prince of the power of the ayre rules, do not know the glorious Goſpel of Jeſus Chriſt, and ſo have not life; therefore they do err not know<g ref="char:EOLhyphen"/>ing the Scriptures, nor the power of God.</p>
+            <p>All who reject the councel of the Lord, in denying the light within Prieſts and people have not life, and are out of the Scriptures;
+<pb n="4" facs="tcp:100698:3"/>they boaſt of the Letter of other mens lines made ready their hands; and they are to be kept out of the Scriptures; for they are thieves, and climb up, coming not by the door, becauſe they reject the light within; which is of Jeſus Chriſt, who is the door, and the life of the Scriptures, but do ſpeak of the Letter which is death and know not the power of life. They build an houſe upon the ſand with untempered morter; and it ſhall fall, and be daſhed in pieces by the light within, the chief corner ſtone, which they ſtumble at, and they do greatly err, not know<g ref="char:EOLhyphen"/>ing the Scriptures nor the power of God; And ſo the blind leads the blinde, and both ſhall fall in the ditch; for they have eyes, and ſee not, becauſe they deny the light within, their ears are dull of hearing, and they will not hear, but wreſt the Scriptures to their own deſtruction, ſo to the Prieſts and people of the world the Scriptures are Parables (as it was, ſo it is) and they erre, not knowing the Scriptures, nor the power of God, becauſe they deny the light within, wherewith Jeſus Chriſt hath enlightened, rejecting the Lords counſel, and know not the myſteries of the kingdom of God, and therefore are ſhut out of the King<g ref="char:EOLhyphen"/>dom becauſe they deny the light within, wherewith Jeſus Chriſt hath enlightened every one, which opens the Scriptures to his diſciples that follow him, and ſeals the Teſtimony among his diſciples; but without are ſorcerers unbelievers, whoremongers, and who works abo<g ref="char:EOLhyphen"/>mination, and truſt in lies, who are to be kept out of the Scriptures, for in rejecting the light within, they ſpeak not according to the Law and teſtimony, and have not the life of the Scriptures; And therefore they run to wizards that peep and mutter; and to the wiſe men of the world, whoſe wiſdom is fooliſhneſs with God, and ſeek the living among the dead, and death ſpeakes of the dead letter which is death, wreſting the Scriptures to their own deſtruction, denying the light within, which would lead to life, &amp; therefore do erre, not knowing the Scriptures, which they are to be kept out of, for they are enemies to Jeſus Chriſt, doing now as they ever did, who perſecute thoſe that live in the life of the Scriptures, as their forefathers did thoſe that gave forth the Scriptures, and their Kingdom is of this world, as their forefathers were being out of the Kingdom of God, by rejecting the light within which leads to the Kingdome, and they hate and perſecute thoſe that are called out of the world, whoſe Kingdom is not of the world, but with<g ref="char:EOLhyphen"/>in, which the Princes and wiſe men of the world knowes not, nor never did, but were enemies to it; Therefore howl and weep ye wiſe men of the world, who are rich in your wiſdome, yee ſhall be conſumed by the light within, which is contrary to it; for the preaching of the Croſſe is fooliſhneſſe to the wiſe of the World now, as ever it was, therefore the <hi>Lord</hi> will confound the wiſdome of the wiſe, and bring to nothing the underſtanding of the prudent; Where is the wiſe? Where is the Scrib? Where is the diſputer of this World? God hath choſen the fooliſh things of this World to confound the wiſe. Thoſe that do follow the light of Chriſt within, which the wiſe of this World accounts fooliſhneſſe and the preaching of the Croſſe, which now, as ever is to the unbelieving Jew a ſtumbling-block, and to the Gentiles, the wiſe of the World, fooliſhneſſe, but to all that are ſaved it is the power of God to World
+<pb n="5" facs="tcp:100698:3"/>Salvation, Jeſus Chriſt made to us wiſdome, and righteouſneſſe, which the World knows not of, but wiſdome is juſtifyed of her Children, and they who hate it, the light within, they are without, in the world, and dare not come to the light becauſe it doth reprove them, and it is a ſtumbling ſtone and rock of offence to them, being diſobedient to it, and while they are ſo, whatſoever they do profeſſe is duſt, their profeſſion is with<g ref="char:EOLhyphen"/>out ground, the foundation is falſe, they have not life, but are in death, wreſting the Scriptures to their own deſtruction, ſtumbling at, the Rock Jeſus Chriſt, the light within, which is the life of the ſcriptures, and who reject it, they build upon the ſand, and their houſe ſhall fall and be made deſolate. Therefore all people ſee upon what foundation you build, and what is the ground and hope of your calling. They who reject the light within, are the enemies of Jeſus Chriſt, and Stone, and perſecute, and impriſon the meſſengers of the Lord, who live in the life of the Scriptures, as their forefathers did, thoſe that gave forth the Scriptures, and the righteous blood will be required at your hands, who live in the ſame nature; your houſe ſhall be left unto you deſolate; the mouth of the Lord hath ſpoken it; and did not the word of the Lord take hold of your forefathers, and they returned and ſaid, like as the Lord of Hoſts hath ſpoken, ſo hath he done unto us? <hi>Zeck.</hi> 1.5. &amp;c. and the word of the Lord endures for ever, it is the ſame yeſterday, to day, and for ever. Now ye have time, priſe it, this is the day of your viſitation. In loving the light within, and obeying it, it will lead you to the life eternal; In looking out and diſobeying the light within, you lye in death, feeding upon the dea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> letter, which is dea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and do err, not knowing the Scrip<g ref="char:EOLhyphen"/>tures, nor the power of God, and are in <hi>Babylon,</hi> in your wiſdome where is confuſion, daſhing one place of ſcripture againſt another in your ima<g ref="char:EOLhyphen"/>gined waies of it, not living in the life of the ſcripnures, and have the light within to be your condemnation, and it will daſh you to pieces; while ye run out from it, ye are in darkneſs without God in the world; all return within and wait upon the Lord in the light, that your ſouls may be raiſed out of death. Haſt, haſt, to meet the Lord; hearken to the voice of Jeſus Chriſt in you and obey it, leaſt ye periſh; whoſoever ſtumbles at it ſhall be broken, and upon whomſoever it ſhall ſall, it will grinde him to powder.</p>
+            <closer>
+               <dateline>
+                  <date>11. mon. 30. day. 1653.</date>
+               </dateline>
+               <signed>Moved and written from the ſpirit of the Lord by <hi>Thomas Stubbes.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <head>To the Priests and people of the World that worſhip they know not what, being ignorant of the true and living God, who is worſhiped in ſpirit and in truth, and a call out of falſe worſhips, to worſhip the living God in ſpirit and in truth.</head>
+            <p>ALL who uphold an outward Temple and a ſteeple houſe, calling it the Church of God, they worſhip the work of their own hands and live in darkneſſe without God in the World, and ſpeak of
+<pb n="6" facs="tcp:100698:4"/>God, but ignorantly worſhip him, not knowing the true and living God, who is worſhipped in ſpirit and in truth, <hi>Io.</hi> 4.22.23. God that made the World and all things therein, dwelleth not in temples made with hands, neither is worſhipped with mens hands, Heaven is my Throne and Earth is thy footſtool, what houſe will you build me, ſaith the Lord, ſee<g ref="char:EOLhyphen"/>ing my hands hath made all theſe things? <hi>Act.</hi> 7. <hi>Steven</hi> was ſtoned to death, for witneſſing forth the truth againſt the ſtif necked and rebellious people of the World, who are uncircumciſed in heart and eares, who do reſiſt the holy Ghoſt, and as did your forefathers, ſo do ye hold up the ſame things, and do perſecute, ſtone, and impriſon the meſſengers of the Lord, who declare againſt your traditional worſhips and hetheniſh practi<g ref="char:EOLhyphen"/>ces which are held up by prieſts and people, that they have no rule of Scripture for, <hi>Mat.</hi> 15.8, 9. <hi>Iſa.</hi> 28. Therefore ſearch the Scriptures; and every one examine your ſelves, &amp; ſee what ye hold up and worſhip, all you who call a ſteeple houſe the Church, are deceived through the ignorance that is in you, and your blind guides, who are your teachers, and have each of them a ſteeple-houſe to creep into, one year after another, where they will let none come but themſelves, and who they pleaſe, there they cauſe you to err &amp; lead captive ſilly women, laden with ſin &amp; led away with divers luſts, alwaies learning and never able to come to the knowledge of the truth, 1 <hi>Tim.</hi> 3.1.2. To that light of Chriſt in your conſciences I ſpeak, which will eternally witneſs the truth, and that this is your condition, you cannot deny it, unleſſe you lye againſt the light in your conſciences, your leaders live in pride and covetouſneſſe; while they promiſe you liberty, they themſelves are the ſervauts of luſt and uncleanneſſe, being men of corrupt mindes; ſo the blind leades the blind, and both falls into the ditch, <hi>Lu</hi> 6.39. And know ye not that your hearts ſhould be an houſe of prayer, and ye members of the Church of Chriſt? but while ye live in ſin, and in the luſts of the fleſh, ye yeeld your members to be ſervants to the Devil; And your hearts which ſhould be a houſe of prayer, ye have made it a den of Theeves, and a Cage of unclean birds, and a den of Vipers and vene<g ref="char:EOLhyphen"/>mous beaſts to dwell in. And ye are not members of the Church of Chriſt, for no whore-monger, nor drunkerd, nor ſweater, nor lyer, nor covetous perſon, nor proud and high minded one, nor who lives in pleaſures and wantonneſſe, nor deceitful perſon, nor whoſoever works a<g ref="char:EOLhyphen"/>bominations, and do live in ſin and uncleanneſſe, theſe are not members of the Church of Chriſt, nor have any inheritance in the Kingdome of God 1 <hi>Cor.</hi> 6.9, 10. for all that filthineſſe defiles the fleſh, and becauſe of theſe things the wrath of God is for the children of diſobedience, <hi>Eph.</hi> 5.4. And how full is the land of Prieſts, and people that worſhip they know not what, and hold up an outward temple and call a ſteeple-houſe the Church of God? and thither do reſort proud and covetous perſons, drunkards, ſwearers, lyars, oppreſſors, diſſemblers, hypocritical perſons, and profeſſors, which are fair ſayers, but not doers of what they ſay; and all theſe ſorts of people now combind together, and are perſecuters now, as their forefathers were, and as they did, ſo do theſe now, perſecute, ſtone, and impriſon thoſe that do witneſſe forth the truth, as <hi>Steven</hi> &amp; the meſſengers of the Lord did againſt the ſtiſnecked and rebellious people,
+<pb n="7" facs="tcp:100698:4"/>who are uncircumciſed in heart, and live in filthineſſe of the fleſh, and in pride and covetouſneſſe, in pleaſures and wantonneſſe, in envy and perſe<g ref="char:EOLhyphen"/>cution, both Prieſts and people; your lives do plainly make manifeſt whoſe children you are, and that you live in the ſame nature, and act the ſame things that the Phariſees; and your forefathers did, which held up the outward Temple and called truth hereſie, and ſtoned the prophets, and deſpiſed the meſſengers of the Lord, and were the betrayers and murtherers of the holy one and the juſt; and as did your fore-fathers ſo do ye hold up the falſe prophets, that ſeek every one their gain from their quarter, and ſuch as <hi>Iſaiah</hi> the true prophet was ſent to cry out a<g ref="char:EOLhyphen"/>gainſt, <hi>Iſa.</hi> 56.10.11.12. Saith he, his watchmen are all blind, they are all ignorant, they are greedy dogs that can never have enough, and they all look to their own way, every one ſeeks for his gain from his quarter; they did ſo then, and do not the Prieſts ſo now? they that have eyes to ſee may plainly ſee who are the falſe Prophets, by their fruits ye may know them. And do not the Prieſts now preach for hire, &amp; cry peace peace to them who put into their mouthes, and who put not into their mouthes, they prepare warr againſt them ſuch <hi>Micah</hi> was ſent to cry out againſt, <hi>Mic.</hi> 3. They preached for hire then, and do not they all ſo now? And have the chief place in the aſſemblies, ſtand praying in the Synagogues, and are called of men Maſter, as the Scribes and Phariſees did? and were? and which were the perſecutors of Jeſus Chriſt and the Apoſt<g ref="char:EOLhyphen"/>les, and do they not take counſel together now, as the chief Prieſts, Pha<g ref="char:EOLhyphen"/>riſees, and Herodians did, and perrecute thoſe who are ſent of the Lord to crie out againſt their deceit and heatheniſh practices which are held up by Prieſts and people contrary to the Scriptures? And woe and judgement was their portion, and wo and judgement is yours, who lives in the ſame nature, and act the ſame things that the chief Prieſts and Phariſees and their followers did, for the mouth of the Lord hath ſpoken it. And did not the word of the Lord take hold of your fore-fathers, and they returned and ſaid, like as the Lord of Hoſts hath ſpoken, ſo hath he done to us, <hi>Zech.</hi> 1, 2, 3, 4. and the word of the Lord endures for ever, Therefore fear and tremble ye workers of iniqutity and ſeed of evil doers both Prieſts and People that bring forth fruits of unrighteouſneſſe, and as did your forefathers ſo do ye call the trueprophets ſeducers, &amp; deceivers but by your fruits ye are eaſily known, who are the falſ prophets and cor<g ref="char:EOLhyphen"/>rupt trees, who are for the fire; and corrupt trees cannot bring forth good fruits, and Jeſus Chriſt hath foretold, by their fruites ye ſhall know them, <hi>Mat.</hi> 7.16. &amp;c Therefore if you will but ſearch the ſcriptures: and look at the fruits that are brought forth, yee need not be deceived, but may ſee who are the falſe prophets, ſee in <hi>Jer.</hi> 5.30.31. and <hi>Jer.</hi> 6.13.14. &amp;c. <hi>Jer.</hi> 8.8. and <hi>Jer.</hi> 23. ch. <hi>Mich</hi> 3. <hi>Jſa.</hi> 56.10, 11, 12. and <hi>Iſa.</hi> 28.7. <hi>Ezek.</hi> 22.26. and 24. ch. Look theſe Scriptures, and you may ſee whether this ſort of men be not now, as they have been of a long time; but now their kingdome is falling, and as <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes,</hi> ſo do theſe men reſiſt the truth, being men of corrupt mindes, re<g ref="char:EOLhyphen"/>probate concerning the faith: but they ſhall proceed no further, and their folly will be made more manifeſt, as theirs alſo was. Therefore
+<pb n="8" facs="tcp:100698:5" rendition="simple:additions"/>come out of <hi>Babylon,</hi> come out from among them, and hold not up the falſe prophets and idol worſhips, and heatheniſh practices, which are held up by the prieſts and people, that know not the living God, whoſe ſacrifice is not accepted, but is abomination before the Lord. And all that live in pride &amp; earthly-mindedneſs, in luſt &amp; uncleanneſs are Gentiles that know not God, and they rage againſt thoſe who are redeemed from their vain converſation that the people of the world live in, which run on the broad way to death, Hell, and deſtruction, living in ſwearing, lying, cove<g ref="char:EOLhyphen"/>touſneſſe, pride and wantonneſſe, both prieſts and people. But wo, wo, wo is to the wicked and all that worſhip the Beaſt, which the whole world wonders after, <hi>Rev.</hi> 17.</p>
+            <p>Therefore all that deſires the welfare of your ſoules, hearken to the voice of Jeſus Chriſt in you, in the conſcience which he hath enlightened you with, mind to be guided by that which checks you when you ſwear, or lie or uſe any deceit in your callings, there is a light in your conſcience that reproves you, and tells you, that you ſhould not do ſo: And when your hearts runs after covetouſneſſe, and pleaſures of this world, and when you ſpend your time in vain idle communications, fooliſh jeſtings, or laughter, the light in the conſcience reproves you, and tells you that you ſhould ſeek the kindome of God and the righteouſneſs thereof before all things; and let not vaine idle communication proceed out of your mouth, but fear the living God, and delight in him alone, now in loving this light of Chriſt in the conſcience, and obeying it, it will lead you up to purity and holineſs, and into the true fear of the Lord, but in hating the light of Jeſus Chriſt, and giving liberty to your vain light minds, you run on the broad way to death, Hell, and deſtruction, and the light in the conſcience is your condemnation, <hi>Ioh.</hi> 3.19, 20.21. and <hi>Jo.</hi> 8.12. So all people take heed to the light, by it you are left without excuſe, <hi>Rom.</hi> 2.16. &amp;c. now ye have time, prize it, whilſt it is the day of your viſitation.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
